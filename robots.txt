@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://codeschoolbook.github.io/sitemap.xml 

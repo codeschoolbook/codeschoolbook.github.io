@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Technologies | So You Want to Go to Code School]]></title>
+  <link href="http://codeschoolbook.github.io/blog/categories/technologies/atom.xml" rel="self"/>
+  <link href="http://codeschoolbook.github.io/"/>
+  <updated>2016-08-28T13:42:55-07:00</updated>
+  <id>http://codeschoolbook.github.io/</id>
+  <author>
+    <name><![CDATA[Katie Leonard]]></name>
+    <email><![CDATA[keighty.leonard@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Technologies to Learn in 2016]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2016/technologies-to-learn-in-2016/"/>
+    <updated>2016-04-02T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2016/technologies-to-learn-in-2016</id>
+    <content type="html"><![CDATA[<p>Tutorialzine published <a href="http://tutorialzine.com/2015/12/the-languages-and-frameworks-you-should-learn-in-2016/" target="_blank">this awesome post</a> at the end of last year, describing all the newest trends in web development. It is a very comprehensive list, but for someone starting out, the prospect of learning one or more of Python 3, Go, PHP 7, ES6, Node.js, Swift, and TypeScript, can be a little daunting!
+If you&rsquo;re looking to break into web development, learn one technology from each of the three parts of the stack: the database layer, the backend layer, and the presentation layer. There will always be more technologies to learn, but when you are starting out it is more important to focus your energies. <!--more--></p>
+
+<h2>Learn a Database</h2>
+
+<p>You can&rsquo;t go wrong by <a href="http://dev.mysql.com/doc/refman/5.7/en/tutorial.html" target="_blank">learning a solid foundation in MySQL</a>. It continues to be the most popular database, and it has extensive documentation and a ton of community support. If you feel comfortable writing SQL queries that join relational data tables, explore a non-relational database like <a href="https://docs.mongodb.org/manual/" target="_blank">MongoDB</a>. They solve very different problems, and take completely different approaches to the data storage and retrieval.</p>
+
+<p>Your database skills will never go to waste, so don&rsquo;t be afraid to invest some time in that foundation.</p>
+
+<h2>Learn a Back-End Framework</h2>
+
+<p>If you&rsquo;re just learning to program, you don&rsquo;t need to worry about learning a framework in every language. The principles remain the same in each one (generally): a web server listens for incoming requests, a router directs the request to the appropriate business logic, and a controller applies the business logic and generates a response.</p>
+
+<p>You don&rsquo;t need to invest in learning <a href="http://flask.pocoo.org/" target="_blank">Flask</a> (Python), <a href="http://rubyonrails.org/" target="_blank">Rails</a> (Ruby), and <a href="http://expressjs.com/en/index.html" target="_blank">Express</a> (JavaScript). Stick with one programming language and learn the mechanics of how a web server works.</p>
+
+<h2>Learn a Front-End Framework</h2>
+
+<p>Learning JavaScript is now a must for any full-stack web developer, but with new frameworks being released almost weekly, which one do you choose? Just 12 months ago, <a href="https://angularjs.org/" target="_blank">Angular</a> was the first choice for many developers, but with the release of Angular2, and the requisite investment in <a href="http://www.typescriptlang.org/" target="_blank">Typescript</a> (as of this writing, there are few docs for writing Angular2 in plain JavaScript), the barrier to entry is a little steep. Many developers have embraced <a href="https://facebook.github.io/react/docs/getting-started.html" target="_blank">React</a> instead.</p>
+JavaScript is now a fundamental piece of web applications, and getting your mind around one of the many new front-end frameworks will give you a lot of employment opportunities.</p>
+
+<h2>A Brief Note on Editors and Tools</h2>
+
+<p>A few new code editors were released this year (see <a href="https://atom.io/" target="_blank">Atom</a> and <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>), but the learning curve you must traverse for each new tool likely won&rsquo;t pay off in a substantial increase in productivity later on. Stick with one, and learn it really well.</p>
+
+<p>Git is not an optional tool these days, and like SQL, you will never go wrong by learning more about Git. Check out <a href="http://katieleonard.ca/blog/categories/git/" target="_blank">these posts</a> for a few of the things I have learned about Git, and that I still use on a near-daily basis.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tap Your Learning Zone for Your Next Big Challenge]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/tap-your-learning-zone-for-your-next-big-challenge/"/>
+    <updated>2015-12-12T00:00:00-08:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/tap-your-learning-zone-for-your-next-big-challenge</id>
+    <content type="html"><![CDATA[<p>Sometimes the sheer amount there is to learn about web development can be overwhelming. To help me stay productive and push through these times, I found an awesome triaging technique called Learning Zones.</p>
+
+<p>In this approach, you triage your learning goals into these three categories: the Comfort Zone, the Learning Zone, and the Terror Zone. Similar to the story of &ldquo;Goldilocks and the Three Bears,&rdquo; goals that are too soft will not challenge you to grow, while goals that are too complex will set you up for failure. Look for the &ldquo;just-right&rdquo; goal that you can find in the learning zone.<!--more--></p>
+
+<h2>Comfort Zone</h2>
+
+<p><img class="right" src="/images/blog_images/2015/learning-zones.png" width="266" height="300" title="&lsquo;Learning Zones&rsquo; &lsquo;a model for learning&rsquo;" ></p>
+
+<p>The comfort zone is for things that you may not know backwards-and-forwards, but that you are comfortable enough with that you don’t need to relearn them. You feel a high level of confidence tackling problems that fall into your comfort zone.</p>
+
+<p>Concepts like HTML and CSS fall into this category for me, as well as basic Ruby and some parts of JavaScript.</p>
+
+<h2>Learning Zone</h2>
+
+<p>The learning zone is for things that you don’t understand yet, but could learn with a little time and effort. You may not know how to solve a problem in your learning zone, but you are familiar enough with the tools you need to get a solid start.</p>
+
+<p>For me, things like React, SASS, and building a continuous integration system fall into that category &ndash; I know the languages I need to employ and have experience with debugging tools that will be helpful, but there are challenging concepts as well as new tools and build steps.</p>
+
+<h2>Terror Zone</h2>
+
+<p>The terror zone is for concepts that seem impenetrable, and you don’t know even where to begin scratching the surface.</p>
+
+<p>Non-deterministic finite automata is in the terror zone for me, as well as Big O notation and sorting algorithms (I have taken the Algorithms I course from Coursera twice, but have never been able to finish it).</p>
+
+<p>You learn most effectively when you stretch slightly out of your comfort zone, and least effectively when working in the terror zone. By sorting your learning list into these categories, you can identify areas where you can set achievable goals.</p>
+
+<p>Here are three ways to start using the learning zone approach:</p>
+
+<ul>
+<li>Work on moving things from your learning zone into your comfort zone.</li>
+<li>Break down concepts from the terror zone into smaller pieces, and try moving those smaller pieces into the learning zone.</li>
+<li>Look for ways to build bridges between concepts in the terror zone and those in the learning zone.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Jobs | So You Want to Go to Code School]]></title>
+  <link href="http://codeschoolbook.github.io/blog/categories/jobs/atom.xml" rel="self"/>
+  <link href="http://codeschoolbook.github.io/"/>
+  <updated>2016-08-28T13:42:55-07:00</updated>
+  <id>http://codeschoolbook.github.io/</id>
+  <author>
+    <name><![CDATA[Katie Leonard]]></name>
+    <email><![CDATA[keighty.leonard@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Your Foot in the Door After Code School]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/getting-your-foot-in-the-door-after-code-school/"/>
+    <updated>2015-09-18T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/getting-your-foot-in-the-door-after-code-school</id>
+    <content type="html"><![CDATA[<p><em>This post is adapted from my book, <a href="http://codeschoolbook.com/buy-the-book/">So You Want To Go To Code School</a>.</em></p>
+
+
+<p>Many people have asked me what it is like on the other side of code school, and if there is any advice I would give to someone before they get their first programming job. Technical ability, problem solving, and communication skills are all essential to success as a developer, and your online presence is a way to demonstrate all three. Getting your foot in the door requires having something to show — keeping your foot in the door requires a little bit more.</p>
+
+
+<!--more-->
+
+
+<h2>Have something to show</h2>
+
+
+<p><img class="left" src="/images/blog_images/2015/octocat2.png" width="300" height="248" title="&lsquo;GitHub Octocat&rsquo; &lsquo;Use GitHub to store and share your code&rsquo;" ></p>
+
+<p>Not every developer spends every waking moment working on open source projects or inventing the next big framework. We all have lives, families, and other pursuits that take priority; however, experienced programmers likely have solid work-related contributions they can point to during an interview. First-timers need some proof that they can apply what they learn. Side projects show potential employers what you are learning, and that you are interested in programming, not just the salary it comes along with.</p>
+
+
+<p>Create a <a href="https://github.com/">GitHub</a> account. If you are in code school, you are likely already working towards a portfolio of apps and widgets to show off during an interview. If you are considering code school, this is something you should not wait to do. When you work through a tutorial, commit it to GitHub, give it a README, and include what you are working through and why.</p>
+
+
+<h2>Start filling your toolbox</h2>
+
+
+<p><img class="right" src="/images/blog_images/2015/toolbox.jpg" width="300" height="800" title="&lsquo;Filling the toolbox&rsquo; &lsquo;Fill your toolbox with strategies to solve problems&rsquo;" ></p>
+
+<p>You can usually assemble a piece of Ikea furniture with only an allen key, but what about that desk drawer that suddenly calls for a screwdriver? Completing the task requires the right tools for the job, and your ability to solve a programming problem is no different. Git, Chrome Developer Tools, and Pry are part of the the Swiss Army knife for any web developer.</p>
+
+
+<ul>
+<li><a href="http://git-scm.com/"><strong>Git</strong></a> is like “track changes” for source code. The docs describe it as a series of snapshots of your code base. “Every time you commit, or save the state of your project in Git, it basically takes a picture of what all your files look like at that moment and stores a reference to <a title="[Getting started with git](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)" href="http://katieleonard.ca/blog/2015/get-your-foot-in-the-door/">it</a>.” Source control allows you to work in the same code base with other developers and not step on one another’s toes. Start with <a href="http://gitimmersion.com/">Git Immersion</a> for some practical experience.</li>
+<li><a href="https://developer.chrome.com/devtools"><strong>Chrome Developer Tools</strong></a> give you access to everything that happens to your application when it is sent to the browser. Troubleshoot Javascript, CSS, and layout issues without having to refresh the page. Check out the tutorials at <a href="http://discover-devtools.codeschool.com/">discover-devtools</a> by CodeSchool.</li>
+<li><a href="https://github.com/pry/pry"><strong>Pry</strong></a> gives you an interactive debugging session wherever you put a breakpoint in a Rails application. <code>binding.pry</code> throws you down the rabbit hole into the inner workings of your program’s psyche. Check out my blog &#8220;<a href="http://katieleonard.ca/blog/2015/exploring-the-stack/">exploring the stack</a>&#8221; for more details about this powerful tool.</li>
+<li><strong>Use the docs</strong>. Knowing how to find and navigate documentation is more important than remembering how to do File I/O. If you find yourself in a technical interview where they don’t let you search the web for help, share your thought process, imagine the solution you might have found had you performed the search, and work your way through the problem with pseudocode. Experienced developers use Google search and StackOverflow constantly, so pop that error message into the search bar to see what turns up. A word to the wise: if an answer was posted more than two years ago, it may no longer be relevant.</li>
+</ul>
+
+
+<h2>Get to know your community</h2>
+
+
+<p>Your next job in programming is more likely to come from someone in your network than from hitting the street with your resume. If you can claim an acquaintance with someone from a company you want to work for, that is one more point in your favour.</p>
+
+
+<p>Go to meetups. If you are shy about meeting lots of new people at once, try introducing yourself to the invited speakers at the end — they are usually well connected and respected in the community. If you approach them with your name and a question or comment about their talk, they are likely to remember you.</p>
+
+
+<h2>Do scary things</h2>
+
+
+<p><img class="left" src="/images/blog_images/2015/against-the-grain.jpg" width="300" height="208" title="&lsquo;Against the grain&rsquo; &lsquo;Do something risky to set yourself apart from the crowd.&rsquo;" ></p>
+
+<p>Not like skydiving, or alligator wrestling. Write blogs, contribute to open source projects, start <a href="http://createyourproglang.com/">your own programming language</a>, or become visible on social media. You don’t need to be an expert to have an opinion. Don’t stop taking risks after you land your first job, either.</p>
+
+
+<p><span style="line-height: 1.5;">Find an area of your work that people are avoiding and become an expert. You will be known as the person who can do that thing we all hate, and your colleagues will value your expertise.</span></p>
+
+
+<p>Take the hardest ticket from the top of the stack. Don’t sift through them until you find something you think you know how to do. Your best opportunity to stretch your skills is to do something scary and uncomfortable.</p>
+
+
+<p>I work with a lot of people who don’t have formal computer science degrees, and while their backgrounds vary, they all share a love of problem solving and a willingness to work hard. Take responsibility for your own learning — code school will only bring you so far, and the rest is up to you.</p>
+
+
+<p>Originally posted on <a href="http://katieleonard.ca/blog/2015/get-your-foot-in-the-door/" target="_blank">katieleonard.ca</a></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How Long Does It Take to Land a Job After Code School?]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/how-long-does-it-take-to-land-a-job-after-code-school/"/>
+    <updated>2015-09-15T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/how-long-does-it-take-to-land-a-job-after-code-school</id>
+    <content type="html"><![CDATA[<p>In my book I advise students to prepare for a minimum of two months of additional unemployment after they graduate from a full-time code school. Why so much time? Won&#8217;t there be employers clamoring to hire you, now that you have mad programming skillz? While you may be anxiously awaiting a response to your application, there are a few important things to remember while you wait.</p>
+
+
+<!--more-->
+
+
+<h4>Your application may have to pass through several hands before they reach out to you</h4>
+
+
+<ul>
+<li>Before you are even offered a phone screen, your resume and cover letter may be evaluated by several managers and senior engineers. For every person that is involved in selecting an eligible candidate, you can add a time premium of at least 6 hours. Don&#8217;t fret if you don&#8217;t get an immediate response.</li>
+</ul>
+
+
+<h4>You may be scheduled for several rounds of interviews</h4>
+
+
+<ul>
+<li>A phone screen, culture fit, and technical interview are typical and there may be more. You may also be asked to meet with other managers and members of the team. Scheduling time with a busy interviewer can be a challenge, so you may have to wait for a slot to open up. If you are invited for a full day interview, they need to line up a good balance of technical and culture-fit interviews, while being fair to you (three 1-hour technical screens in a row would be just mean).</li>
+</ul>
+
+
+<h4>Time passes more quickly for the hiring manager than it does for you</h4>
+
+
+<ul>
+<li>Hiring you is not the only thing on a manager&#8217;s plate. Mine was working to deliver a product by a hard deadline just as my application came across his desk. While I had all day to craft the perfect casual follow-up email (&#8220;Hey there! Just casually checking in! Look how casual I am being even though I am dying of anticipation and excitement and dread! cheers, Katie&#8221;), he was swamped with all the other things that go in to being a manager.</li>
+</ul>
+
+
+<h4>There may be many departments involved in the hiring process</h4>
+
+
+<ul>
+<li>Depending on the size of the company you are applying to, there may be many rounds of communication between the hiring manager and different departments, such as human resources. There is always a communication cost as more people become involved. Everyone is busy doing their jobs, and while the question of your job offer is top priority to you, it is definitely further down the list for everyone else involved.</li>
+</ul>
+
+
+<p>If I could talk to my Sept-2013-self, I would tell her to just relax. Yes, getting a job is important. Yes, getting THIS job is super important &#8212; but once your application is out there, the process is out of your hands. What you <em>can</em> do is be prepared to wait.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What Else You Can Do After Code School]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/what-else-you-can-do-after-code-school/"/>
+    <updated>2015-09-02T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/what-else-you-can-do-after-code-school</id>
+    <content type="html"><![CDATA[<p><em>This post is adapted from my book, <a href="http://codeschoolbook.com/buy-the-book/" target="_blank">So You Want To Go To Code School</a>.</em></p>
+
+
+<p>Learning to program at a code school is a great opportunity to acquire new skills, and to make your current skills relevant in tech. Becoming a software developer is the most common goal, but there is a wide variety of roles that technical people can play in software that aren’t about writing code. Whether you have left a job in customer service, teaching, or research, the skills you gained in your last career will help you fill a niche in your new one. Here are a few paths in tech that don’t involve writing software, but do require some experience with coding, frameworks, and methodologies.</p>
+
+
+<!--more-->
+
+
+<h3>Product Manager</h3>
+
+
+<h5>Code School + Business Management</h5>
+
+
+<p>As a product manager (aka product owner), you decide what features to build by studying the market and learning your customers’ needs. The result of your research is a product road map and business strategy for the next year and beyond. Field experience is essential to making good business decisions.</p>
+
+
+<h3>Project Manager</h3>
+
+
+<h5>Code School + Project Management</h5>
+
+
+<p>A project manager follows the product road map feature by feature. In this role you will be responsible for marshalling resources and delivering product. Excellent communication skills are a must, as is a technical familiarity with the system under construction. You need to ask the right questions, identify risks, validate estimates, and eliminate blockers.</p>
+
+
+<h3>Engineering Manager</h3>
+
+
+<h5>Code School + Project Management + People Management</h5>
+
+
+<p>High-functioning teams do not manifest by chance — they are the result of deliberate choices made at the intersection of project needs, culture fit, and career growth. As an engineering manager, you don’t just assemble the team. You also schedule projects, implement (or remove) processes, grow careers, and communicate up and down the management chain. In addition to all of these tasks, you must be familiar with the job the team is performing.</p>
+
+
+<h3>Technical Writer</h3>
+
+
+<h5>Code School + Written Communication Skills</h5>
+
+
+<p>Writing technical specs and documentation will require all of your technical knowledge as well as language, teaching, and research skills. The technical writing field is expected to grow enormously in the next 10 years<sup id="fnref:1"><a href="http://katieleonard.ca/blog/2015/what-else-you-can-do-after-code-school/#fn:1" rel="footnote">1</a></sup>, and delivering web-based product support will be par for the course. Use your new coding skills to build documentation websites and forums, as well as generate useful content.</p>
+
+
+<h3>Technical Support</h3>
+
+
+<h5>Code School + Customer Service</h5>
+
+
+<p>Technical support is growing at a similar pace to technical writing. Helping users interact successfully with a product is essential to their happiness, and companies have a vested interest in troubleshooting where these interactions go wrong. You act as liaison between the end user and the development and management teams by reporting and triaging bugs, working with developers to resolve issues, and communicating with internal customers as well as external ones.</p>
+
+
+<h3>Quality Assurance Engineer</h3>
+
+
+<h5>Code School + Product Knowledge</h5>
+
+
+<p>As a QA engineer, you are a product expert, not a tester. You understand the way users interact with the product and how the features interact with each other. You can reveal blind spots in design and edge cases of user experience that will catch a feature engineer unawares. Combining attention to detail with a holistic view of the system, QA engineers ensure that users continue to trust the product you are delivering.</p>
+
+
+<p>Not everyone leaves code school with a passion for building software, but everyone does leave with the skills they need to have an awesome career in tech. No education or experience is wasted, so don’t forget to leverage your current skill set as you are learning a new one.</p>
+
+
+<p>Originally posted on <a href="http://katieleonard.ca/blog/2015/what-else-you-can-do-after-code-school/" target="_blank">katieleonard.ca</a></p>
+
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">Bureau of Labour Statistics: <a href="http://www.bls.gov/ooh/media-and-communication/technical-writers.htm">Technical Writers</a><a href="http://katieleonard.ca/blog/2015/what-else-you-can-do-after-code-school/#fnref:1" rev="footnote">↩</a></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

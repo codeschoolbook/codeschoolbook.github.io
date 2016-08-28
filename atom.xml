@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[So You Want to Go to Code School]]></title>
+  <link href="http://codeschoolbook.github.io/atom.xml" rel="self"/>
+  <link href="http://codeschoolbook.github.io/"/>
+  <updated>2016-08-28T13:42:55-07:00</updated>
+  <id>http://codeschoolbook.github.io/</id>
+  <author>
+    <name><![CDATA[Katie Leonard]]></name>
+    <email><![CDATA[keighty.leonard@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Technologies to Learn in 2016]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2016/technologies-to-learn-in-2016/"/>
+    <updated>2016-04-02T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2016/technologies-to-learn-in-2016</id>
+    <content type="html"><![CDATA[<p>Tutorialzine published <a href="http://tutorialzine.com/2015/12/the-languages-and-frameworks-you-should-learn-in-2016/" target="_blank">this awesome post</a> at the end of last year, describing all the newest trends in web development. It is a very comprehensive list, but for someone starting out, the prospect of learning one or more of Python 3, Go, PHP 7, ES6, Node.js, Swift, and TypeScript, can be a little daunting!
+If you&rsquo;re looking to break into web development, learn one technology from each of the three parts of the stack: the database layer, the backend layer, and the presentation layer. There will always be more technologies to learn, but when you are starting out it is more important to focus your energies. <!--more--></p>
+
+<h2>Learn a Database</h2>
+
+<p>You can&rsquo;t go wrong by <a href="http://dev.mysql.com/doc/refman/5.7/en/tutorial.html" target="_blank">learning a solid foundation in MySQL</a>. It continues to be the most popular database, and it has extensive documentation and a ton of community support. If you feel comfortable writing SQL queries that join relational data tables, explore a non-relational database like <a href="https://docs.mongodb.org/manual/" target="_blank">MongoDB</a>. They solve very different problems, and take completely different approaches to the data storage and retrieval.</p>
+
+<p>Your database skills will never go to waste, so don&rsquo;t be afraid to invest some time in that foundation.</p>
+
+<h2>Learn a Back-End Framework</h2>
+
+<p>If you&rsquo;re just learning to program, you don&rsquo;t need to worry about learning a framework in every language. The principles remain the same in each one (generally): a web server listens for incoming requests, a router directs the request to the appropriate business logic, and a controller applies the business logic and generates a response.</p>
+
+<p>You don&rsquo;t need to invest in learning <a href="http://flask.pocoo.org/" target="_blank">Flask</a> (Python), <a href="http://rubyonrails.org/" target="_blank">Rails</a> (Ruby), and <a href="http://expressjs.com/en/index.html" target="_blank">Express</a> (JavaScript). Stick with one programming language and learn the mechanics of how a web server works.</p>
+
+<h2>Learn a Front-End Framework</h2>
+
+<p>Learning JavaScript is now a must for any full-stack web developer, but with new frameworks being released almost weekly, which one do you choose? Just 12 months ago, <a href="https://angularjs.org/" target="_blank">Angular</a> was the first choice for many developers, but with the release of Angular2, and the requisite investment in <a href="http://www.typescriptlang.org/" target="_blank">Typescript</a> (as of this writing, there are few docs for writing Angular2 in plain JavaScript), the barrier to entry is a little steep. Many developers have embraced <a href="https://facebook.github.io/react/docs/getting-started.html" target="_blank">React</a> instead.</p>
+JavaScript is now a fundamental piece of web applications, and getting your mind around one of the many new front-end frameworks will give you a lot of employment opportunities.</p>
+
+<h2>A Brief Note on Editors and Tools</h2>
+
+<p>A few new code editors were released this year (see <a href="https://atom.io/" target="_blank">Atom</a> and <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>), but the learning curve you must traverse for each new tool likely won&rsquo;t pay off in a substantial increase in productivity later on. Stick with one, and learn it really well.</p>
+
+<p>Git is not an optional tool these days, and like SQL, you will never go wrong by learning more about Git. Check out <a href="http://katieleonard.ca/blog/categories/git/" target="_blank">these posts</a> for a few of the things I have learned about Git, and that I still use on a near-daily basis.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Freelancing After Code School? Read "Burn Your Portfolio"]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2016/freelancing-after-code-school-read-burn-your-portfolio/"/>
+    <updated>2016-02-27T00:00:00-08:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2016/freelancing-after-code-school-read-burn-your-portfolio</id>
+    <content type="html"><![CDATA[<p>Michael Janda wrote <em>Burn Your Portfolio</em> with graphic designers in mind, but there is a lot of wisdom that can be applied to any career in any industry. Of course, he is not actually recommending that you burn your portfolio, but that there is more to being a graphic designer or web developer than they can teach you in a four-year degree or three-month code school. If you are considering freelancing after code school, Janda can help you avoid a lot of common mistakes.<!--more--></p>
+
+<h2>Success has more to do with your professionalism than with your technical ability</h2>
+
+<p>Janda attributes his success to his behaviour, work ethic, and social prowess, not his exceptional design skills. He even admits that his design skills are just above average. What keeps the lights on at his agency is dedication to client happiness, an attitude of openness, and a ton of learning from mistakes.</p>
+
+<h4>Be nice to everyone</h4>
+
+<p>You never know where your next job offer or contract is going to come from. Janda was able to trace 90% of his clients back to one friendly interaction he had with an intern he worked with briefly one summer.</p>
+
+<h4>Deliver your deliverables in the morning</h4>
+
+<p>You may be scrambling to hit your 4pm deadline, completely unaware that there is someone in an earlier timezone waiting for your part so that they can do theirs. Delivering your commitments first thing in the morning not only pushes the scramble to the night before, but it gives the other end time for feedback, questions, last-minute changes, or ample patting on the back.</p>
+
+<h4>There is only one way to eat an elephant</h4>
+
+<p>Large projects, like eating an elephant, can&rsquo;t be done all in one sitting. Break large projects down into actionable bite-sized pieces, and leave plenty of time for digestion. Your stomach can only hold about 32 ounces at a time, and you can only do so much work in a day.</p>
+
+<h2>Grow your skills</h2>
+
+<p>Web design and graphic design industries have a lot in common, including a fast pace of change. Designs from 2 years ago are beginning to show their age, and you can&rsquo;t rely on your current skill set to be relevant in the next 5 to 10 years. Take some time to identify where you want to be professionally in 2 years. Whether you think about it or not, you will be looking for a change. Whether for more pay or more responsibility, start closing your skills gap now.</p>
+
+<h4>Don&rsquo;t piddle away your downtime</h4>
+
+<p>Do what you can to stay current with industry standards. Last year, Angular was the front-end technology that was going to take over the world. This year it&rsquo;s React. What will it be next year? What are you doing to teach yourself the skills you will need then?</p>
+
+<h4>Don&rsquo;t interpret design critique as character critique</h4>
+
+<p>Code reviews can be difficult, especially if you identify too much with your code. You are not your code, and whether you are a 10-year veteran or just starting your career, seek out criticism whenever and wherever you can find it. It will improve your code, your designs, and your career.</p>
+
+<h4>Everyone does something better than you</h4>
+
+<p>Even people you hate. Find that one thing that they do better than you and learn it from them. Janda recommends taking a look around your office and to identify one attribute from each of them that you would like to incorporate into your life.</p>
+
+<h2>Communication is key</h2>
+
+<p>In a section titled &ldquo;Two Ears, One Mouth,&rdquo; Janda shares his philosophy on communication. It can be summed up as [often, friendly, perfect].</p>
+
+<h4>Often</h4>
+
+<p>Frequent updates are key to keeping clients calm. If a client gives you the thumbs-up and then does not hear from you until the end of the project, they are going to wonder and worry. Keep panic at bay by giving weekly and ad hoc updates as milestones are hit and approached.</p>
+
+<p>Record verbal decisions with written follow-up to make sure everyone is on the same page. Memory is a tricky thing, and you may leave a meeting with an entirely different impression than your client intended to give. If you have made a verbal agreement, or come to a decision in a meeting, take a moment to follow up afterwards with an email that shares your understanding of what transpired. You will have a written record of what was decided, and your client will have the opportunity to correct any misapprehensions.</p>
+
+<h4>Friendly</h4>
+
+<p>It is easy to misinterpret tone in an email. If you do not set it deliberately, your reader will inject their own emotional state. Janda shares his 100%-no-fail template to keeping email communication easy, breezy, and professional.</p>
+
+<p>The ultimate email formula for success:</p>
+
+<blockquote><p><strong>Message subject</strong>: Web Developer Position</p>
+
+<p><strong>Recipient name</strong>: Dear Company Name,</p>
+
+<p><strong>Friendly comment</strong>: Hope you are enjoying the gorgeous early-spring weather! I was impressed by your website and hope to one day join your team!<br />
+<strong>Get to the point</strong>: Please see the attached resume in response to your advertisement for a web developer.<br />
+<strong>Friendly comment</strong>: It sounds like an exciting opportunity!</p>
+
+<p><strong>Sender name</strong>: Katie Leonard<br />
+<strong>Sender contact info</strong>: &lt;contact info here&gt;</p></blockquote>
+
+<p>Framing your communication between friendly comments ensures that the content will be read with a friendly tone. Take away the friendly comments and you sound like a bot.</p>
+
+<h4>Perfect</h4>
+
+<p>Never put anything in writing that you would not want a client to read. That includes glib filler text, nicknames, or unflattering categorization. No matter how careful you are, someone will see it, and you can say goodbye to your reputation for professionalism. If you can, get a coworker to proofread your communication before you hit Send. The writer&rsquo;s brain will see past typos and grammatical errors, but the reader&rsquo;s won&rsquo;t.</p>
+
+<h2>Mind your business</h2>
+
+<p>If you are trying your hand at freelancing, &ldquo;Section 5: Mind Your Business&rdquo; is gold from start to finish. Janda talks about how to set a fair price on your work (hint: it is about value, not about time invested), how to avoid getting burned by undocumented work, how to prepare for disaster, and how to deal with the stress of irregular pay.</p>
+
+<ul>
+<li>How do you handle spikes in demand? Have a list of reliable freelancers at the ready for when you have more work than you can handle.</li>
+<li>How do you know when you are succeeding? How do you get to know the cadence of your own business? Keep metrics on everything.</li>
+<li>How do you pitch your business? Make a capabilities presentation.</li>
+</ul>
+
+
+<p><em>Burn Your Portfolio</em> is a how-to-succeed-in-life sort of manual. Nothing but industry experience will help you avoid the common mistakes we all make early in our careers, but putting Janda&rsquo;s systems in place early will likely save you from at least a few hard lessons.</p>
+
+<hr/>
+
+
+<p>Check out: <em><a href="http://www.amazon.com/Burn-Your-Portfolio-design-school/dp/0321918681/ref=sr_1_1/187-4242278-8351651?ie=UTF8&amp;qid=1456467133&amp;sr=8-1&amp;keywords=burn+your+portfolio" target="_blank">Burn Your Portfolio: Stuff they don&rsquo;t teach you in design school, but should</a></em>
+<a href="http://www.amazon.com/Burn-Your-Portfolio-design-school/dp/0321918681/ref=sr_1_1?ie=UTF8&amp;qid=1456468190&amp;sr=8-1&amp;keywords=burn+your+portfolio"><img class="" src="http://ecx.images-amazon.com/images/I/61tbi3K7CxL._SX332_BO1,204,203,200_.jpg" alt="Burn Your Portfolio Book Cover" width="334" height="499"/></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tap Your Learning Zone for Your Next Big Challenge]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/tap-your-learning-zone-for-your-next-big-challenge/"/>
+    <updated>2015-12-12T00:00:00-08:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/tap-your-learning-zone-for-your-next-big-challenge</id>
+    <content type="html"><![CDATA[<p>Sometimes the sheer amount there is to learn about web development can be overwhelming. To help me stay productive and push through these times, I found an awesome triaging technique called Learning Zones.</p>
+
+<p>In this approach, you triage your learning goals into these three categories: the Comfort Zone, the Learning Zone, and the Terror Zone. Similar to the story of &ldquo;Goldilocks and the Three Bears,&rdquo; goals that are too soft will not challenge you to grow, while goals that are too complex will set you up for failure. Look for the &ldquo;just-right&rdquo; goal that you can find in the learning zone.<!--more--></p>
+
+<h2>Comfort Zone</h2>
+
+<p><img class="right" src="http://codeschoolbook.github.io/images/blog_images/2015/learning-zones.png" width="266" height="300" title="Learning Zones" alt="a model for learning"></p>
+
+<p>The comfort zone is for things that you may not know backwards-and-forwards, but that you are comfortable enough with that you don’t need to relearn them. You feel a high level of confidence tackling problems that fall into your comfort zone.</p>
+
+<p>Concepts like HTML and CSS fall into this category for me, as well as basic Ruby and some parts of JavaScript.</p>
+
+<h2>Learning Zone</h2>
+
+<p>The learning zone is for things that you don’t understand yet, but could learn with a little time and effort. You may not know how to solve a problem in your learning zone, but you are familiar enough with the tools you need to get a solid start.</p>
+
+<p>For me, things like React, SASS, and building a continuous integration system fall into that category &ndash; I know the languages I need to employ and have experience with debugging tools that will be helpful, but there are challenging concepts as well as new tools and build steps.</p>
+
+<h2>Terror Zone</h2>
+
+<p>The terror zone is for concepts that seem impenetrable, and you don’t know even where to begin scratching the surface.</p>
+
+<p>Non-deterministic finite automata is in the terror zone for me, as well as Big O notation and sorting algorithms (I have taken the Algorithms I course from Coursera twice, but have never been able to finish it).</p>
+
+<p>You learn most effectively when you stretch slightly out of your comfort zone, and least effectively when working in the terror zone. By sorting your learning list into these categories, you can identify areas where you can set achievable goals.</p>
+
+<p>Here are three ways to start using the learning zone approach:</p>
+
+<ul>
+<li>Work on moving things from your learning zone into your comfort zone.</li>
+<li>Break down concepts from the terror zone into smaller pieces, and try moving those smaller pieces into the learning zone.</li>
+<li>Look for ways to build bridges between concepts in the terror zone and those in the learning zone.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Positive Trends in Course Report’s Annual Graduate Survey]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/positive-trends-in-course-reports-annual-graduate-survey/"/>
+    <updated>2015-11-12T00:00:00-08:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/positive-trends-in-course-reports-annual-graduate-survey</id>
+    <content type="html"><![CDATA[<p><a href="https://www.coursereport.com/">Course Report</a> is an awesome resource for anyone thinking of attending a coding bootcamp. It is an impartial site where you can find honest student reviews and resources for every stage of your journey. They have just published the results of their <a href="https://www.coursereport.com/2015-coding-bootcamp-job-placement-demographics-report">second annual Graduate Survey</a>, and the numbers paint a glowing picture for prospective students.</p>
+
+<p>Spoiler alert! In the end, most students are very happy with their decision to go to code school, with reported satisfaction ratings up to 8.42/10 from 8.1/10.<!--more--></p>
+
+<p>There were fewer qualifying code schools represented in the survey this year (44 down from 48), but more students met inclusion criteria (665 up from 432). The biggest win for this survey is the breakdown of outcomes by post-bootcamp time-to-employment.</p>
+
+<ul>
+<li>27% of students were employed at a job requiring the skills they learned at bootcamp within 30 days after graduation</li>
+<li>61% were placed after 60 days</li>
+<li>79% within 90 days</li>
+<li>88% within 120 days</li>
+</ul>
+
+
+<p>These numbers mean that developer jobs are being filled by code school grads at a sustained rate. The code school model of learning web development in a bootcamp-style environment is gaining momentum, and does not show signs of slowing down. While most of the students who opt for code school are getting hired, it&rsquo;s important to note that the employment process takes time and that jobs aren&rsquo;t available to everyone right out of the gate. Be prepared for two or more months of continued unemployment after your program has completed.</p>
+
+<p>Also, you may have to work a little harder to get your foot in the door, as fewer schools (53% down from 60%) offered opportunities for internships with employer partners, or on-site interviews.</p>
+
+<p>Perhaps not surprisingly, tuition is rising, up from an average of $10,267 in 2014 to $11,852 this year. With newly available student loans from external lending partners, 25% of graduates were able to finance their tuition, compared to 4% the year before. Student age is also going up (last year: 29, this year: 31).</p>
+
+<h4>What does this mean for code school students?</h4>
+
+<p>There has never been a better time to learn web development. Code school is starting to fill the skills gap that left so many developer positions empty. The jobs are waiting, and the financial backing is there to help you succeed.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Can Self-Study Achieve the Same Goal as a Coding Bootcamp?]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/can-self-study-achieve-the-same-goal-as-a-coding-bootcamp/"/>
+    <updated>2015-11-02T00:00:00-08:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/can-self-study-achieve-the-same-goal-as-a-coding-bootcamp</id>
+    <content type="html"><![CDATA[<p>The internet is full of free resources for learning how to write code, and all of the technical content covered at a typical code school can be learned independently. So why are so many people opting to pay for content that they can easily find for free?</p>
+
+<p>TechCrunch recently published an <a href="http://techcrunch.com/2015/10/23/coding-academies-are-nonsense/">article</a> by Stephen Nichols titled &ldquo;Coding Academies are Nonsense.&rdquo; While I disagree with the thesis (for obvious reasons), the biggest problem with the article is the assumption that code schools are only about learning to code, which anyone can do through self-study. Coding is only part of being a programmer, and code schools provide a lot more.<!--more--></p>
+
+<h3>Structure</h3>
+
+<p>In an <a href="http://kwugirl.blogspot.com/2015/10/coding-academies-are-not-nonsense-for.html">awesome rebuttal</a> to Nichols' article, Katherine Wu points out that there are a lot of other benefits to be had at bootcamp, such as &ldquo;social pressure to get yourself to do something you wanted to do already, guidance towards a particular curriculum, and faster learning from having concentrated help.&rdquo;</p>
+
+<p>A beginner programmer is learning to converse in a foreign language without fully knowing the grammar, while solving logic problems. You will run into a lot of walls early on, and experience many frustrating hours simply trying to articulate the part of the problem you don&rsquo;t understand. Being surrounded by co-learners ensures that you will not stay stuck for too long &ndash; hitting the wall with a team behind you means that someone can give you a boost. Also, having constant access to a teacher who can help you identify the next best thing to learn will make your journey more efficient.</p>
+
+<h3>Teamwork</h3>
+
+<p>Probably none of the software you find most useful in your day to day life was coded by a single developer. Writing code can be done alone, but creating software that people will use requires teamwork. Stanley Idesis posted a great answer to <a href="http://www.quora.com/Programming-Bootcamps/Self-study-vs-Boot-camp-Starting-from-zero-can-self-study-achieve-the-same-goal-become-dev-at-a-decent-west-coast-company-as-attending-a-boot-camp">this question on Quora</a>, pointing out that software is not created in a code vacuum:</p>
+
+<blockquote><p>As a recruiter looking over your resume, I want to see examples of where you worked in tandem with other developers&hellip; to create something together. This shows me that you can function as part of a team.</p></blockquote>
+
+<p>Most people have a hard time leaping from following a beginner tutorial to building software that people want to use, and getting the courage to contribute to open source is daunting even for more experienced programmers &ndash; daunting, but not impossible. Code schools are all about collaboration and co-learning through pair programming, and for many students that lowers the barrier to entry.</p>
+
+<h3>Purpose</h3>
+
+<p>After few years of self-study, I had produced two clunky Android apps and a half-dozen blog platforms in different languages from following tutorials. You can learn to code by yourself, but you can&rsquo;t learn to develop software without a purpose.</p>
+
+<p>Code school curriculum includes projects that are invented by students from conception through deployment. I had a hard time coming up with an interesting project that would break new ground and showcase my new technical skills, but I had an awesome mentors at code school (thanks Chuck!). He encouraged me to write a programming language (Check it out on <a href="https://github.com/keighty/eh-">GitHub &ndash; Eh?</a>), which was a scary proposition for a beginner. He gave me the resources and support that I needed to make a start, and my project impressed a few hiring managers.</p>
+
+<p>I do agree with Nichols that &ldquo;learning to translate intent to a non-human foreign language — coding — is pretty daunting, even with handholding instruction&hellip; [but it] is a skill that anyone with intelligence and determination can learn.&rdquo; If it can be made any easier with a little handholding instruction, I will opt for the help any day.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Your 90-day Apprenticeship Starts After Code School]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/your-90-day-apprenticeship-starts-after-code-school/"/>
+    <updated>2015-10-01T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/your-90-day-apprenticeship-starts-after-code-school</id>
+    <content type="html"><![CDATA[<p>Being a beginner is hard in general, and being a beginner programmer is even harder. Not only are you straining your mental muscles to wrap your head around new abstract ways of thinking, but you are also adapting to new environments, new coworkers, sometimes even a new city. The great thing about programming is that you are surrounded by people who are also working things out for the first time: new problems, new technologies, and new ideas.</p>
+
+<p>Code school is just the start of your programming education. Doctors, plumbers, and electricians don&rsquo;t allow students fresh out of school to begin plying their trade on critical systems, so it&rsquo;s crazy to think that a programmer could do the same (from Robert Martin, <a href="http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073" target="_blank">The Clean Coder: A Code of Conduct for Professional Programmers</a>). Dev Bootcamp co-founder Shereef Bishay said in an <a href="http://www.usatoday.com/story/tech/2014/01/31/california-computer-boot-camps-cited/5078521/" target="_blank">interview with USA Today</a> that his school is more of an apprenticeship program than an educational institution, but really your 90-day apprenticeship starts after code school. It begins when you land your first job in the real world of software development. <!--more--></p>
+
+<h2>How to be an awesome programming apprentice</h2>
+
+<p>Being an extraordinary apprentice means asking lots of questions. Keep track of all the questions you ask, and present them to your manager at your three-month review. It will show how far you&rsquo;ve come and will leave a breadcrumb trail that other juniors can follow.</p>
+
+<p>Another way you can be an awesome apprentice is by taking the hardest ticket from the pile and pairing with another engineer to solve it. Picking something you don&rsquo;t know how to do will stretch your skills and connect you with mentors.</p>
+
+<p>Finally, you can be a great apprentice by not being afraid to say something stupid (from Michael Lopp, <a href="http://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147/ref=sr_1_1?ie=UTF8&amp;qid=1443494332&amp;sr=8-1&amp;keywords=managing+humans" target="_blank">Managing Humans: Biting and Humorous Tales of a Software Engineering Manager</a>). Not socially-unacceptable stupid&hellip; that should be avoided whenever possible. Saying something stupid means taking a chance on sharing your half-baked idea based on half-understanding in a meeting. If your coworkers are awesome like mine, they will gently correct your misapprehension and pretend not to see how red your ears get when you&rsquo;re embarrassed. What you&rsquo;ll demonstrate through your fumblings is a desire to make connections and work out the complexity you are learning.</p>
+
+<p>My first job in tech has been an apprenticeship on many levels. I&rsquo;ve adapted to the frequent rate of change and have started from scratch on each team I have worked with. I&rsquo;m getting good at being an apprentice. I got there by getting comfortable with being uncomfortable. When you land your first job after code school, be a good apprentice &ndash; that means reaching for the information that will help your understanding and allowing yourself the time to get there.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What if You Don’t Love Programming at First "Hello World!"]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/what-if-you-dont-love-programming-at-first-hello-world/"/>
+    <updated>2015-09-28T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/what-if-you-dont-love-programming-at-first-hello-world</id>
+    <content type="html"><![CDATA[<p>&ldquo;I don&rsquo;t enjoy programming. Will I once I am good at it?&rdquo; This question was posted recently on <a href="https://www.switchup.org/questions/i-don-t-enjoy-programming-will-i-enjoy-it-once-i-am-good-at-it">Switchup.org</a>, a resource site for people considering code school. Learning how to program is a difficult challenge, and it can be hard to understand the rewards when you are struggling with the foundations. I asked myself the same question when I was tackling the first steps, but I didn&rsquo;t have to wait until I was good at programming (I am still waiting to be good at programming) before I began to enjoy it. <!--more-->Breaking through a difficult problem became the part that I enjoyed, but I needed a few breakthroughs before I got completely hooked. If you are mired in a problem that you don&rsquo;t know how to solve, it&rsquo;s natural to question your devotion. If you find that you are not enjoying the process, take a step back to gain some perspective.</p>
+
+<p>Earlier this year I was working on a very difficult project, and I would often come up against problems that I had no idea how to solve. I felt in over my head and had strong feelings of <a href="https://en.wikipedia.org/wiki/Impostor_syndrome" target="_blank">imposter syndrome</a>. I was struggling with some very challenging technical problems, and one of my amazing mentors shared her own mantra for putting a problem in perspective: &ldquo;There is a finite amount of time that you will work at this and not understand it.&rdquo;</p>
+
+<p>Most programming challenges are not like <a href="https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem" target="_blank">Fermat&rsquo;s Last Theorem</a> (a math problem that wasn&rsquo;t solved until 358 years after it was published). They can usually be broken down into manageable (and solvable) chunks. If you can&rsquo;t break down the problem or you stay stuck for more than an hour &ndash; find help! <a href="http://stackoverflow.com/" target="_blank">StackOverflow</a>, <a href="https://groups.google.com/forum/#!overview" target="_blank">Google Groups</a>, <a href="http://github.com" target="_blank">GitHub</a>, and <a href="http://www.meetup.com/" target="_blank">Meetups</a> are communities of people who love a programming challenge. If you come away from a tough problem with a solution, or at least a few extra tools to use the next time you are stuck, then that is a resounding success.</p>
+
+<p>Curiosity, determination, and creativity are the most important features of a good programmer. If you&rsquo;re considering going to code school but you don&rsquo;t love programming, consider <a href="http://codeschoolbook.com/what-else-you-can-do-after-code-school/">all of the other options that code school can open up</a> for you. If you&rsquo;re still unsure, try a different programming language, framework, or medium. Try to make something useful, like a game, a blog site, or a to-do list. You don&rsquo;t have to start out with a passion for programming, but you do need curiosity and a high tolerance for frustration.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What if You Don’t Get Into Code School the First Time?]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/what-if-you-dont-get-into-code-school-the-first-time/"/>
+    <updated>2015-09-25T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/what-if-you-dont-get-into-code-school-the-first-time</id>
+    <content type="html"><![CDATA[<p>I didn&rsquo;t get into code school the first time I applied. I set my sights on a program but didn&rsquo;t make the first cut. Even though I had some programming experience, my application did not stand out enough to score me an interview. I was disappointed, but took advantage of the opportunity to firm up my financial footing and beef up my application. If your heart is set on a particular school, city, and program, don&rsquo;t be discouraged if you don&rsquo;t get in the first time you apply.<!--more--></p>
+
+<h4>Work on your GitHub profile</h4>
+
+<p><img class="right" src="https://git-scm.com/images/logo@2x.png" width="220" height="92" title="Git" alt="Git logo"></p>
+
+<p>Code school isn&rsquo;t the only way to learn how to code, and downtime between application cycles is the perfect opportunity to learn and practice. After all, how do you know if you will enjoy coding as a career if you haven&rsquo;t ever tried it? If you don&rsquo;t already have one, get yourself a <a href="http://github.com/">GitHub</a> account. GitHub is an online repository for code that uses <a href="https://git-scm.com/">Git</a> version control to track changes. You will be using these or similar tools every day as a software developer, so you can&rsquo;t be familiar enough with these tools.</p>
+
+<p>Every time you go through a tutorial, dabble in a new language, or start a new project, you should add your source code to GitHub. You may be shy about posting unfinished code on the internet, but no one will be looking until you are applying to code school (or your first job).</p>
+
+<h4>Take an online course</h4>
+
+<p><img class="right" src="https://www.edx.org/sites/default/files/theme/edx-logo-header.png" width="93" height="47" title="EdX" alt="EdX logo"></p>
+
+<p><a href="http://www.coursera.org/">Coursera</a>, <a href="https://www.edx.org/">EdX</a>, and <a href="http://online.stanford.edu/courses">Stanford Online</a> offer free learn-to-program or expand-your-skill-set courses. Taking some of these online offerings will not only beef up your application by showing your dedication to learning to code, but it will also help you be more prepared for the program. You can use these tools to learn programming in a new language, how to process handle Big Data, or create a video game. The forums will connect you with the community at large, and there may be a meetup where students get together in person to watch the videos or work through problems.</p>
+
+<h4>Work on your soft skills</h4>
+
+<p><img class="right" src="http://img2.meetupstatic.com/img/8308650022681532654/header/logo-2x.png" width="136" height="90" title="Meetup" alt="Meetup logo"></p>
+
+<p>Your code school application should contain more than just code. The admissions people look for well-rounded applications. Learning to code is like learning any other new skill, and if you haven&rsquo;t done that in a while, it is time to flex your brain by picking up something new. Find something to do that isn&rsquo;t coding and take a deep dive. Try a workshop, or an art class. Join a sports team, or <a href="http://www.meetup.com/">Meetup</a> about a topic that seems interesting. Your admissions interview will go much better if you can talk about a time when you took a risk and it paid off &ndash; or, if it didn&rsquo;t, what you learned from the experience. If you have dozens of incomplete projects in your wake, pick one and finish it. Showing that you have a track record of starting and finishing a project will help: past success is the biggest indicator of future success.</p>
+
+<h4>Get in touch with the school</h4>
+
+<p>Talk to people who are involved in your code school&rsquo;s community. The school itself may organize workshops, lectures, or tours. Take advantage of as many opportunities as you can to explore the curriculum and meet the teachers. You may get some helpful tips from teachers or former students on how to improve your application. Also, keep in mind that there are many schools available. Your first choice does not have to be your only choice. Explore other options and other schools.</p>
+
+<p>Code school admissions is not a straightforward first-come-first-served process. Building a cohort of students takes consideration, and schools are looking for a variety of backgrounds, skill levels, and personalities. If you don&rsquo;t get into code school the first time you apply, ask why! They may be able to give you some tips on how to further improve your application.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to Be Creative in Your Code School Application]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/how-to-be-creative-in-your-code-school-application/"/>
+    <updated>2015-09-22T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/how-to-be-creative-in-your-code-school-application</id>
+    <content type="html"><![CDATA[<p>Many code schools are interested in your profile as it appears on paper: a resume, cover letter, and your online presence (LinkedIn, GitHub, etc). These schools will make their decision based on an in-person (or Skype) interview, where they can get a feel for why you are choosing code school, what drives you, and how well you will interview for your first job in tech. Others will ask you for a small, creative project to set yourself apart from the other candidates.</p>
+
+
+<!--more-->
+
+
+<p>Learning how to tout your own awesomeness in an in-person interview is difficult enough, but committing it to video? Writing an essay? It turns out that the code school application is similar to a college application: your extra-curricular activities matter. The creative component of these applications should not be considered optional (<a href="https://hackbrightacademy.com/" target="_blank">Hackbright Academy</a> even promises that a silly video submission won&#8217;t hurt your chances of admission). Code schools are looking for people who are passionate about something, and the creative component is your opportunity to show it off.</p>
+
+
+<p><span id="more-104"></span></p>
+
+
+<h4>Talk Nerdy</h4>
+
+
+<p>Do you play video games? Board games? Fantasy football? When I was preparing my applications, I listed out all the things I had done and enjoyed in recent memory. I enjoy curling, bridge, and tap dancing. I love to read, and to tinker with tutorials. Since I couldn&#8217;t fill an entire video or essay on any one of these topics, I decided to create an infographic. Whatever you spend your non-working hours thinking about is worth talking about.</p>
+
+
+<p>I looked for adjectives for all the great adventures I have had, I grabbed images that illustrated the fun things in my life. I was getting pretty good at using GIMP, so I picked the five most interesting things, slapped them into colored bands, and added brief descriptions. I threw the adjectives at the bottom, and hit the save button. I was embarrassed by it then, and I am a little red-faced about it now. It was fun to put together, and I was pretty sure it would die a quick death once I did or did not get into code school.</p>
+
+
+<h4>Break it down into components</h4>
+
+
+<p><a href="http://devbootcamp.com/">Dev Bootcamp</a> asks their applicants to create a video showing how they would teach a pet topic. The topic is your choice, so pick something that stands out. The people reviewing the video are not looking to learn a new video game skill from you &#8212; what they are looking for is how well you communicate, and how much you empathize with your student. Break the task down into chunks that any reasonable person could follow. Practice with a friend or family member before creating your video. The content is not as important as the process.</p>
+
+
+<h4>Even if it is optional, it isn&#8217;t</h4>
+
+
+<p>If your code school does not require a creative component to the application, or if they say that it is optional, do it anyway. Whenever you have the opportunity to do more than was asked for, you should. It will demonstrate your willingness to go the extra mile, not only for the application but in your learning as well.</p>
+
+
+<p>I found my infographic as I was reviewing my own application materials. Surely anything you put together could be more awesome than that:</p>
+
+
+<p><img class="left" src="http://codeschoolbook.github.io/images/blog_images/2015/KLInfographic.png" width="161" height="300" title="My infographic" alt="infographic for my code school application"></p>
+
+<p>However you can express yourself, do it. Even if you feel that it is embarrassing or corny. Do something interesting. Better than that, be something interesting. Do something unusual and then write about it. Take a class. Join a sports team. Take up a hobby &#8212; knitting, bridge, anything where you have to learn patterns or rules.</p>
+
+
+<p>Heck, if you enjoy the exercise so much, there is a code school that is dedicated to teaching people how to <a href="http://sfpc.io/">use technology to create art</a>.</p>
+
+
+<p>Checkout <a href="http://www.skilledup.com/articles/tips-great-coding-bootcamp-essay" target="_blank">Skilled Up</a> and <a href="https://www.resumeedge.com/stand-coding-bootcamp-application/" target="_blank">ResumeEdge</a> for more advice, and examples of successful bootcamp applications.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting Your Foot in the Door After Code School]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/getting-your-foot-in-the-door-after-code-school/"/>
+    <updated>2015-09-18T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/getting-your-foot-in-the-door-after-code-school</id>
+    <content type="html"><![CDATA[<p><em>This post is adapted from my book, <a href="http://codeschoolbook.com/buy-the-book/">So You Want To Go To Code School</a>.</em></p>
+
+
+<p>Many people have asked me what it is like on the other side of code school, and if there is any advice I would give to someone before they get their first programming job. Technical ability, problem solving, and communication skills are all essential to success as a developer, and your online presence is a way to demonstrate all three. Getting your foot in the door requires having something to show — keeping your foot in the door requires a little bit more.</p>
+
+
+<!--more-->
+
+
+<h2>Have something to show</h2>
+
+
+<p><img class="left" src="http://codeschoolbook.github.io/images/blog_images/2015/octocat2.png" width="300" height="248" title="GitHub Octocat" alt="Use GitHub to store and share your code"></p>
+
+<p>Not every developer spends every waking moment working on open source projects or inventing the next big framework. We all have lives, families, and other pursuits that take priority; however, experienced programmers likely have solid work-related contributions they can point to during an interview. First-timers need some proof that they can apply what they learn. Side projects show potential employers what you are learning, and that you are interested in programming, not just the salary it comes along with.</p>
+
+
+<p>Create a <a href="https://github.com/">GitHub</a> account. If you are in code school, you are likely already working towards a portfolio of apps and widgets to show off during an interview. If you are considering code school, this is something you should not wait to do. When you work through a tutorial, commit it to GitHub, give it a README, and include what you are working through and why.</p>
+
+
+<h2>Start filling your toolbox</h2>
+
+
+<p><img class="right" src="http://codeschoolbook.github.io/images/blog_images/2015/toolbox.jpg" width="300" height="800" title="Filling the toolbox" alt="Fill your toolbox with strategies to solve problems"></p>
+
+<p>You can usually assemble a piece of Ikea furniture with only an allen key, but what about that desk drawer that suddenly calls for a screwdriver? Completing the task requires the right tools for the job, and your ability to solve a programming problem is no different. Git, Chrome Developer Tools, and Pry are part of the the Swiss Army knife for any web developer.</p>
+
+
+<ul>
+<li><a href="http://git-scm.com/"><strong>Git</strong></a> is like “track changes” for source code. The docs describe it as a series of snapshots of your code base. “Every time you commit, or save the state of your project in Git, it basically takes a picture of what all your files look like at that moment and stores a reference to <a title="[Getting started with git](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)" href="http://katieleonard.ca/blog/2015/get-your-foot-in-the-door/">it</a>.” Source control allows you to work in the same code base with other developers and not step on one another’s toes. Start with <a href="http://gitimmersion.com/">Git Immersion</a> for some practical experience.</li>
+<li><a href="https://developer.chrome.com/devtools"><strong>Chrome Developer Tools</strong></a> give you access to everything that happens to your application when it is sent to the browser. Troubleshoot Javascript, CSS, and layout issues without having to refresh the page. Check out the tutorials at <a href="http://discover-devtools.codeschool.com/">discover-devtools</a> by CodeSchool.</li>
+<li><a href="https://github.com/pry/pry"><strong>Pry</strong></a> gives you an interactive debugging session wherever you put a breakpoint in a Rails application. <code>binding.pry</code> throws you down the rabbit hole into the inner workings of your program’s psyche. Check out my blog &#8220;<a href="http://katieleonard.ca/blog/2015/exploring-the-stack/">exploring the stack</a>&#8221; for more details about this powerful tool.</li>
+<li><strong>Use the docs</strong>. Knowing how to find and navigate documentation is more important than remembering how to do File I/O. If you find yourself in a technical interview where they don’t let you search the web for help, share your thought process, imagine the solution you might have found had you performed the search, and work your way through the problem with pseudocode. Experienced developers use Google search and StackOverflow constantly, so pop that error message into the search bar to see what turns up. A word to the wise: if an answer was posted more than two years ago, it may no longer be relevant.</li>
+</ul>
+
+
+<h2>Get to know your community</h2>
+
+
+<p>Your next job in programming is more likely to come from someone in your network than from hitting the street with your resume. If you can claim an acquaintance with someone from a company you want to work for, that is one more point in your favour.</p>
+
+
+<p>Go to meetups. If you are shy about meeting lots of new people at once, try introducing yourself to the invited speakers at the end — they are usually well connected and respected in the community. If you approach them with your name and a question or comment about their talk, they are likely to remember you.</p>
+
+
+<h2>Do scary things</h2>
+
+
+<p><img class="left" src="http://codeschoolbook.github.io/images/blog_images/2015/against-the-grain.jpg" width="300" height="208" title="Against the grain" alt="Do something risky to set yourself apart from the crowd."></p>
+
+<p>Not like skydiving, or alligator wrestling. Write blogs, contribute to open source projects, start <a href="http://createyourproglang.com/">your own programming language</a>, or become visible on social media. You don’t need to be an expert to have an opinion. Don’t stop taking risks after you land your first job, either.</p>
+
+
+<p><span style="line-height: 1.5;">Find an area of your work that people are avoiding and become an expert. You will be known as the person who can do that thing we all hate, and your colleagues will value your expertise.</span></p>
+
+
+<p>Take the hardest ticket from the top of the stack. Don’t sift through them until you find something you think you know how to do. Your best opportunity to stretch your skills is to do something scary and uncomfortable.</p>
+
+
+<p>I work with a lot of people who don’t have formal computer science degrees, and while their backgrounds vary, they all share a love of problem solving and a willingness to work hard. Take responsibility for your own learning — code school will only bring you so far, and the rest is up to you.</p>
+
+
+<p>Originally posted on <a href="http://katieleonard.ca/blog/2015/get-your-foot-in-the-door/" target="_blank">katieleonard.ca</a></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How Long Does It Take to Land a Job After Code School?]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/how-long-does-it-take-to-land-a-job-after-code-school/"/>
+    <updated>2015-09-15T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/how-long-does-it-take-to-land-a-job-after-code-school</id>
+    <content type="html"><![CDATA[<p>In my book I advise students to prepare for a minimum of two months of additional unemployment after they graduate from a full-time code school. Why so much time? Won&#8217;t there be employers clamoring to hire you, now that you have mad programming skillz? While you may be anxiously awaiting a response to your application, there are a few important things to remember while you wait.</p>
+
+
+<!--more-->
+
+
+<h4>Your application may have to pass through several hands before they reach out to you</h4>
+
+
+<ul>
+<li>Before you are even offered a phone screen, your resume and cover letter may be evaluated by several managers and senior engineers. For every person that is involved in selecting an eligible candidate, you can add a time premium of at least 6 hours. Don&#8217;t fret if you don&#8217;t get an immediate response.</li>
+</ul>
+
+
+<h4>You may be scheduled for several rounds of interviews</h4>
+
+
+<ul>
+<li>A phone screen, culture fit, and technical interview are typical and there may be more. You may also be asked to meet with other managers and members of the team. Scheduling time with a busy interviewer can be a challenge, so you may have to wait for a slot to open up. If you are invited for a full day interview, they need to line up a good balance of technical and culture-fit interviews, while being fair to you (three 1-hour technical screens in a row would be just mean).</li>
+</ul>
+
+
+<h4>Time passes more quickly for the hiring manager than it does for you</h4>
+
+
+<ul>
+<li>Hiring you is not the only thing on a manager&#8217;s plate. Mine was working to deliver a product by a hard deadline just as my application came across his desk. While I had all day to craft the perfect casual follow-up email (&#8220;Hey there! Just casually checking in! Look how casual I am being even though I am dying of anticipation and excitement and dread! cheers, Katie&#8221;), he was swamped with all the other things that go in to being a manager.</li>
+</ul>
+
+
+<h4>There may be many departments involved in the hiring process</h4>
+
+
+<ul>
+<li>Depending on the size of the company you are applying to, there may be many rounds of communication between the hiring manager and different departments, such as human resources. There is always a communication cost as more people become involved. Everyone is busy doing their jobs, and while the question of your job offer is top priority to you, it is definitely further down the list for everyone else involved.</li>
+</ul>
+
+
+<p>If I could talk to my Sept-2013-self, I would tell her to just relax. Yes, getting a job is important. Yes, getting THIS job is super important &#8212; but once your application is out there, the process is out of your hands. What you <em>can</em> do is be prepared to wait.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Why I Wrote “So You Want to Go to Code School"]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/why-i-wrote-so-you-want-to-go-to-code-school/"/>
+    <updated>2015-09-12T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/why-i-wrote-so-you-want-to-go-to-code-school</id>
+    <content type="html"><![CDATA[<p><span style="font-weight: 400;">Going to code school was a hard decision to make, and I made it with surprisingly little information. I had been learning how to write code for a few years, but developing scripts to handle repetitive work is different from building software. I didn&#8217;t know anyone in the industry, or how to break in. </span><span style="font-weight: 400;">All I really knew was that I enjoyed the challenge of writing code. That is when I heard about code school.</span></p>
+
+
+<!--more-->
+
+
+<p>A friend forwarded me an advertisement for a code school in New York that was offering a scholarship for women to attend their 2012 summer session. Coding bootcamps were a new concept in career training, and they offered to teach web development fundamentals to uninitiated but passionate students through an intensive short-term program. This was exactly the jumpstart my career change needed, but there was still a great deal I didn&#8217;t know that I didn&#8217;t know.</p>
+
+
+<p>I wrote this book because code school is an expensive and difficult challenge. There are many unknowns before you begin, such as:</p>
+
+
+<ul>
+<li>What&#8217;s it like to be a developer?</li>
+<li>What should you consider before choosing a code school?</li>
+<li>What will you learn? What won&#8217;t you learn?</li>
+<li>What kinds of jobs can you apply for after code school? What could your career path look like?</li>
+<li>How does code school compare to a traditional computer science degree?</li>
+</ul>
+
+
+<p><span style="font-weight: 400;">Becoming a software developer requires curiosity but also persistence in the face of frustration. The payoffs can be immeasurable. I love the &#8216;aha&#8217; moment when you break through a difficult problem, or learn a new method or pattern that makes everything easier. Not only is the work rewarding, but it is also lucrative. Going to code school is not an easy road, but it is definitely worth the effort.</span></p>
+
+
+<p><span style="font-weight: 400;">I am now a software developer at an awesome company. I get to spend every day working with bright and curious people, writing software that people love to use, and solving challenging problems. I love my job. Code school was an amazing but difficult experience. If I knew then what I know now, I would make the same decision again, but may have relaxed a little more along the way.</span></p>
+
+
+<p>I hope that after you read <em><a href="http://codeschoolbook.com/buy-the-book/" target="_blank">So You Want to Go to Code School</a>,</em> you will be better prepared than I was, and that you will be just as successful and happy in your new career.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What Else You Can Do After Code School]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/what-else-you-can-do-after-code-school/"/>
+    <updated>2015-09-02T00:00:00-07:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/what-else-you-can-do-after-code-school</id>
+    <content type="html"><![CDATA[<p><em>This post is adapted from my book, <a href="http://codeschoolbook.com/buy-the-book/" target="_blank">So You Want To Go To Code School</a>.</em></p>
+
+
+<p>Learning to program at a code school is a great opportunity to acquire new skills, and to make your current skills relevant in tech. Becoming a software developer is the most common goal, but there is a wide variety of roles that technical people can play in software that aren’t about writing code. Whether you have left a job in customer service, teaching, or research, the skills you gained in your last career will help you fill a niche in your new one. Here are a few paths in tech that don’t involve writing software, but do require some experience with coding, frameworks, and methodologies.</p>
+
+
+<!--more-->
+
+
+<h3>Product Manager</h3>
+
+
+<h5>Code School + Business Management</h5>
+
+
+<p>As a product manager (aka product owner), you decide what features to build by studying the market and learning your customers’ needs. The result of your research is a product road map and business strategy for the next year and beyond. Field experience is essential to making good business decisions.</p>
+
+
+<h3>Project Manager</h3>
+
+
+<h5>Code School + Project Management</h5>
+
+
+<p>A project manager follows the product road map feature by feature. In this role you will be responsible for marshalling resources and delivering product. Excellent communication skills are a must, as is a technical familiarity with the system under construction. You need to ask the right questions, identify risks, validate estimates, and eliminate blockers.</p>
+
+
+<h3>Engineering Manager</h3>
+
+
+<h5>Code School + Project Management + People Management</h5>
+
+
+<p>High-functioning teams do not manifest by chance — they are the result of deliberate choices made at the intersection of project needs, culture fit, and career growth. As an engineering manager, you don’t just assemble the team. You also schedule projects, implement (or remove) processes, grow careers, and communicate up and down the management chain. In addition to all of these tasks, you must be familiar with the job the team is performing.</p>
+
+
+<h3>Technical Writer</h3>
+
+
+<h5>Code School + Written Communication Skills</h5>
+
+
+<p>Writing technical specs and documentation will require all of your technical knowledge as well as language, teaching, and research skills. The technical writing field is expected to grow enormously in the next 10 years<sup id="fnref:1"><a href="http://katieleonard.ca/blog/2015/what-else-you-can-do-after-code-school/#fn:1" rel="footnote">1</a></sup>, and delivering web-based product support will be par for the course. Use your new coding skills to build documentation websites and forums, as well as generate useful content.</p>
+
+
+<h3>Technical Support</h3>
+
+
+<h5>Code School + Customer Service</h5>
+
+
+<p>Technical support is growing at a similar pace to technical writing. Helping users interact successfully with a product is essential to their happiness, and companies have a vested interest in troubleshooting where these interactions go wrong. You act as liaison between the end user and the development and management teams by reporting and triaging bugs, working with developers to resolve issues, and communicating with internal customers as well as external ones.</p>
+
+
+<h3>Quality Assurance Engineer</h3>
+
+
+<h5>Code School + Product Knowledge</h5>
+
+
+<p>As a QA engineer, you are a product expert, not a tester. You understand the way users interact with the product and how the features interact with each other. You can reveal blind spots in design and edge cases of user experience that will catch a feature engineer unawares. Combining attention to detail with a holistic view of the system, QA engineers ensure that users continue to trust the product you are delivering.</p>
+
+
+<p>Not everyone leaves code school with a passion for building software, but everyone does leave with the skills they need to have an awesome career in tech. No education or experience is wasted, so don’t forget to leverage your current skill set as you are learning a new one.</p>
+
+
+<p>Originally posted on <a href="http://katieleonard.ca/blog/2015/what-else-you-can-do-after-code-school/" target="_blank">katieleonard.ca</a></p>
+
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">Bureau of Labour Statistics: <a href="http://www.bls.gov/ooh/media-and-communication/technical-writers.htm">Technical Writers</a><a href="http://katieleonard.ca/blog/2015/what-else-you-can-do-after-code-school/#fnref:1" rev="footnote">↩</a></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

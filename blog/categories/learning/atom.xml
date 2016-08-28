@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Learning | So You Want to Go to Code School]]></title>
+  <link href="http://codeschoolbook.github.io/blog/categories/learning/atom.xml" rel="self"/>
+  <link href="http://codeschoolbook.github.io/"/>
+  <updated>2016-08-28T13:42:55-07:00</updated>
+  <id>http://codeschoolbook.github.io/</id>
+  <author>
+    <name><![CDATA[Katie Leonard]]></name>
+    <email><![CDATA[keighty.leonard@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tap Your Learning Zone for Your Next Big Challenge]]></title>
+    <link href="http://codeschoolbook.github.io/blog/2015/tap-your-learning-zone-for-your-next-big-challenge/"/>
+    <updated>2015-12-12T00:00:00-08:00</updated>
+    <id>http://codeschoolbook.github.io/blog/2015/tap-your-learning-zone-for-your-next-big-challenge</id>
+    <content type="html"><![CDATA[<p>Sometimes the sheer amount there is to learn about web development can be overwhelming. To help me stay productive and push through these times, I found an awesome triaging technique called Learning Zones.</p>
+
+<p>In this approach, you triage your learning goals into these three categories: the Comfort Zone, the Learning Zone, and the Terror Zone. Similar to the story of &ldquo;Goldilocks and the Three Bears,&rdquo; goals that are too soft will not challenge you to grow, while goals that are too complex will set you up for failure. Look for the &ldquo;just-right&rdquo; goal that you can find in the learning zone.<!--more--></p>
+
+<h2>Comfort Zone</h2>
+
+<p><img class="right" src="/images/blog_images/2015/learning-zones.png" width="266" height="300" title="&lsquo;Learning Zones&rsquo; &lsquo;a model for learning&rsquo;" ></p>
+
+<p>The comfort zone is for things that you may not know backwards-and-forwards, but that you are comfortable enough with that you don’t need to relearn them. You feel a high level of confidence tackling problems that fall into your comfort zone.</p>
+
+<p>Concepts like HTML and CSS fall into this category for me, as well as basic Ruby and some parts of JavaScript.</p>
+
+<h2>Learning Zone</h2>
+
+<p>The learning zone is for things that you don’t understand yet, but could learn with a little time and effort. You may not know how to solve a problem in your learning zone, but you are familiar enough with the tools you need to get a solid start.</p>
+
+<p>For me, things like React, SASS, and building a continuous integration system fall into that category &ndash; I know the languages I need to employ and have experience with debugging tools that will be helpful, but there are challenging concepts as well as new tools and build steps.</p>
+
+<h2>Terror Zone</h2>
+
+<p>The terror zone is for concepts that seem impenetrable, and you don’t know even where to begin scratching the surface.</p>
+
+<p>Non-deterministic finite automata is in the terror zone for me, as well as Big O notation and sorting algorithms (I have taken the Algorithms I course from Coursera twice, but have never been able to finish it).</p>
+
+<p>You learn most effectively when you stretch slightly out of your comfort zone, and least effectively when working in the terror zone. By sorting your learning list into these categories, you can identify areas where you can set achievable goals.</p>
+
+<p>Here are three ways to start using the learning zone approach:</p>
+
+<ul>
+<li>Work on moving things from your learning zone into your comfort zone.</li>
+<li>Break down concepts from the terror zone into smaller pieces, and try moving those smaller pieces into the learning zone.</li>
+<li>Look for ways to build bridges between concepts in the terror zone and those in the learning zone.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
