@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tap Your Learning Zone for Your Next Big Challenge"
-date: 27-Aug-2016
+date: 12-Dec-2015
 categories: [learning, technologies]
 ---
 
